@@ -24,7 +24,7 @@ No telegram, busque por `Aurion, Seu assistente visual` e inicie a conversa.
 ## 📂 Estrutura das Pastas
 
 ```bash
-  📁 sprints-9-10-pb-aws-abril
+  📁 Aurion_bot_aws_telegram
   │
   ├── 📁 assets
   │   ├── Arquitetura.png
@@ -74,6 +74,5 @@ No telegram, busque por `Aurion, Seu assistente visual` e inicie a conversa.
 
 ## 👨‍💻 Autor
 
-<div>
 - [Luiz Fillipe Morais](https://github.com/LuizFillipe1)
-</div>
+
